@@ -1,0 +1,1 @@
+C:\Users\Błażej\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBirdXNATutorial\FlappyBird.csproj;x86

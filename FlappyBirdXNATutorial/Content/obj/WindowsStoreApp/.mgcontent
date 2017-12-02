@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Błażej/Documents/Visual Studio 2017/Projects/FlappyBird/FlappyBirdXNATutorial/Content/Backgrounds/background.jpg</File>
+    <File>C:/Users/Błażej/Documents/Visual Studio 2017/Projects/FlappyBird/FlappyBirdXNATutorial/Content/Images/SmileyWalk.png</File>
+    <File>C:/Users/Błażej/Documents/Visual Studio 2017/Projects/FlappyBird/FlappyBirdXNATutorial/Content/Fonts/FontLogger.spritefont</File>
+    <File>C:/Users/Błażej/Documents/Visual Studio 2017/Projects/FlappyBird/FlappyBirdXNATutorial/Content/Fonts/FontGame.spritefont</File>
+    <File>C:/Users/Błażej/Documents/Visual Studio 2017/Projects/FlappyBird/FlappyBirdXNATutorial/Content/Fonts/FontScore.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

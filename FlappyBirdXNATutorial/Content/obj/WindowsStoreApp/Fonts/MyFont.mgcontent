@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Błażej/Documents/Visual Studio 2017/Projects/FlappyBirdXNATutorial/FlappyBirdXNATutorial/Content/Fonts/MyFont.spritefont</SourceFile>
+  <SourceTime>2017-11-26T23:33:54.0864885+01:00</SourceTime>
+  <DestFile>C:/Users/Błażej/Documents/Visual Studio 2017/Projects/FlappyBirdXNATutorial/FlappyBirdXNATutorial/Content/bin/WindowsStoreApp/Fonts/MyFont.xnb</DestFile>
+  <DestTime>2017-11-26T23:33:58.9362149+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
